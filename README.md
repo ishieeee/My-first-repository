@@ -1,4 +1,5 @@
 # My-first-repository
-this is my first git repository
-author- ishika singh
+This is my first git repository.
+<br>
+Author- ishika singh
 
